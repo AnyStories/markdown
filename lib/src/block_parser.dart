@@ -90,9 +90,9 @@ class BlockParser {
     const OtherTagBlockHtmlSyntax(),
     const SetextHeaderSyntax(),
     const HeaderSyntax(),
-    const CodeBlockSyntax(),
-    const BlockquoteSyntax(),
-    const HorizontalRuleSyntax(),
+    // const CodeBlockSyntax(),
+    // const BlockquoteSyntax(),
+    // const HorizontalRuleSyntax(),
     const UnorderedListSyntax(),
     const OrderedListSyntax(),
     const ParagraphSyntax()
