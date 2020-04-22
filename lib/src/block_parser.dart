@@ -92,7 +92,7 @@ class BlockParser {
     const HeaderSyntax(),
     // const CodeBlockSyntax(),
     // const BlockquoteSyntax(),
-    // const HorizontalRuleSyntax(),
+    const HorizontalRuleSyntax(),
     const UnorderedListSyntax(),
     const OrderedListSyntax(),
     const ParagraphSyntax()
